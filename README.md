@@ -12,7 +12,7 @@ Currently, I am developing my research activity in the area of remote sensing fo
 
 # Conect with me 
 
-[<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/linked_in.png"  width='50'>]([https://www.linkedin.com/in/m%C2%AA-%C3%A1ngeles-varo-72568729/]) [<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/RG_square_green.jpg"  width='50'>]([https://www.researchgate.net/profile/M-Varo]) [<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/scholar_google.png"  width='50'>]([https://scholar.google.com/citations?user=w9ccMvUAAAAJ&hl=en]) [<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/ORCID%20iD%20elements.png"  width='50'>]([https://orcid.org/my-orcid?orcid=0000-0002-7455-3412])
+[<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/linked_in.png"  width='50'>](https://www.linkedin.com/in/m%C2%AA-%C3%A1ngeles-varo-72568729/) [<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/RG_square_green.jpg"  width='50'>](https://www.researchgate.net/profile/M-Varo) [<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/scholar_google.png"  width='50'>](https://scholar.google.com/citations?user=w9ccMvUAAAAJ&hl=en) [<img src="https://github.com/mangelesvaro/Teaching_resources/blob/main/ORCID%20iD%20elements.png"  width='50'>](https://orcid.org/my-orcid?orcid=0000-0002-7455-3412)
 
 
 <!--
